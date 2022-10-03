@@ -1,5 +1,5 @@
-# extensible-event-stream-headstart
-Extensible Event Stream (XES) - Headstart
+extensible-event-stream-headstart
+# Extensible Event Stream (XES) - Headstart
 
 ## 100 - Introduction
 
